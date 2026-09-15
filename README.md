@@ -19,4 +19,3 @@ Quick start:
     python -m src.enroll             # 6. enroll identities
     python -m src.evaluate           # 7. tune threshold  
     python -m src.recognize          # 8. live recognition
-# face-recognition-5pt
